@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        /** This TOAST come from an library called anko */
         button1.setOnClickListener{
             toast("Message: ${edit.text}")
         }

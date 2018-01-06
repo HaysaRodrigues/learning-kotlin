@@ -5,3 +5,11 @@ Inspired by Antonio Leiva and his blog. Learning kotlin developing android apps 
 ## List of posts
 
 * First Kotlin project ([create first android project in kotlin](https://antonioleiva.com/create-first-android-project-kotlin/));
+* Kotlin Variables      ([variables in kotlin](https://antonioleiva.com/variables-kotlin/));
+
+
+## List of great libraries that I used in this samples
+* Anko      ([make android development faster and easier](https://github.com/Kotlin/anko/));
+
+
+
