@@ -6,6 +6,7 @@ Inspired by Antonio Leiva and his blog. Learning kotlin developing android apps 
 
 * First Kotlin project ([create first android project in kotlin](https://antonioleiva.com/create-first-android-project-kotlin/));
 * Kotlin Variables      ([variables in kotlin](https://antonioleiva.com/variables-kotlin/));
+* Kotlin Android Extensions: ([say goodbye to findViewById](https://antonioleiva.com/kotlin-android-extensions/));
 
 
 ## List of great libraries that I used in this samples
